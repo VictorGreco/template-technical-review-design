@@ -6,7 +6,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/VictrGreco/template-technical-review-design">
+  <a href="https://github.com/VictorGreco/template-technical-review-design">
     <img src="logo.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -16,14 +16,14 @@
     Owner(s) - @VictorGreco <br>
     Status - Released
     <br />
-    <a href="https://github.com/VictrGreco/template-technical-review-design"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/VictorGreco/template-technical-review-design"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/VictrGreco/template-technical-review-design">View Demo</a>
+    <a href="https://github.com/VictorGreco/template-technical-review-design">View Demo</a>
     ·
-    <a href="https://github.com/VictrGreco/template-technical-review-design/issues">Report Bug</a>
+    <a href="https://github.com/VictorGreco/template-technical-review-design/issues">Report Bug</a>
     ·
-    <a href="https://github.com/VictrGreco/template-technical-review-design/issues">Request Feature</a>
+    <a href="https://github.com/VictorGreco/template-technical-review-design/issues">Request Feature</a>
   </p>
 </p>
 
@@ -50,7 +50,7 @@ $ cd my-workspace
 4. _Clone the repository_
 
 ```
-git clone https://github.com/VictrGreco/template-technical-review-design.git
+git clone https://github.com/VictorGreco/template-technical-review-design.git
 ```
 
 or 
@@ -88,14 +88,14 @@ git clone https://github.com/%YOUR_USER%/%YOUR_COOL_REPO_NAME%.git
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/VictrGreco/template-technical-review-design.svg?style=flat-square
-[contributors-url]: https://github.com/VictrGreco/template-technical-review-design/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/VictrGreco/template-technical-review-design.svg?style=flat-square
-[forks-url]: https://github.com/VictrGreco/template-technical-review-design/network/members
-[stars-shield]: https://img.shields.io/github/stars/VictrGreco/template-technical-review-design.svg?style=flat-square
-[stars-url]: https://github.com/VictrGreco/template-technical-review-design/stargazers
-[issues-shield]: https://img.shields.io/github/issues/VictrGreco/template-technical-review-design.svg?style=flat-square
-[issues-url]: https://github.com/VictrGreco/template-technical-review-design/issues
-[license-shield]: https://img.shields.io/github/license/VictrGreco/template-technical-review-design.svg?style=flat-square
-[license-url]: https://github.com/VictrGreco/template-technical-review-design/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/VictorGreco/template-technical-review-design.svg?style=flat-square
+[contributors-url]: https://github.com/VictorGreco/template-technical-review-design/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/VictorGreco/template-technical-review-design.svg?style=flat-square
+[forks-url]: https://github.com/VictorGreco/template-technical-review-design/network/members
+[stars-shield]: https://img.shields.io/github/stars/VictorGreco/template-technical-review-design.svg?style=flat-square
+[stars-url]: https://github.com/VictorGreco/template-technical-review-design/stargazers
+[issues-shield]: https://img.shields.io/github/issues/VictorGreco/template-technical-review-design.svg?style=flat-square
+[issues-url]: https://github.com/VictorGreco/template-technical-review-design/issues
+[license-shield]: https://img.shields.io/github/license/VictorGreco/template-technical-review-design.svg?style=flat-square
+[license-url]: https://github.com/VictorGreco/template-technical-review-design/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
