@@ -59,7 +59,7 @@ or
 git clone https://github.com/%YOUR_USER%/%YOUR_COOL_REPO_NAME%.git
 ```
 
-5. _Then start editing TDR.md with your own requirements_
+5. _Then start editing [TDR.md](https://github.com/VictorGreco/template-technical-review-design/blob/main/TDR.md) with your own stuff_
 
 </br>
 
